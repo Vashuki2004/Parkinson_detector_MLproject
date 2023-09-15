@@ -1,6 +1,6 @@
 **PARKISON DISEASE DETECTOR USING ML**
 
-Parkinson's disease is a progressive disorder that affects the nervous system and the parts of the body controlled by the nerves
+Parkinson's disease is a progressive disorder that affects the nervous system and the parts of the body controlled by the nerves.
 
 Dataset is available in the 'Data' Folder
 
