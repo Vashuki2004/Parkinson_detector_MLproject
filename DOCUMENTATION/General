@@ -1,0 +1,10 @@
+LIBRABIES 
+
+numpy     --> for arrays 
+pandas    --> pandas dataframe 
+sklearn   --> contains several ML models
+   train_test_split --> to split data into training data and test data
+   standard_scaler  --> for data preprocessing 
+   svm              --> support vector machine 
+   accuracy_score   --> to measure final accuracy
+
